@@ -77,7 +77,7 @@ For this project, we focus on a binary classification: NO=0 and AB=1.
 ### Instructions
 
 1. Clone the repository and navigate to the project folder.
-2. Open the Jupyter Notebook (`Huang_Bor-Sheng_HW1.ipynb`).
+2. Open the Jupyter Notebook (`Huang_Bor-Sheng.ipynb`).
 3. Run the cells sequentially to execute the analysis and view results.
 
 ## Exploratory Data Analysis
